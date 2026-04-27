@@ -1,13 +1,14 @@
-# 供应链管理系统
+# Vue_express_mariaDB
 
 #### 介绍
 个人express+Vue+Uniapp前后端项目
 
 #### 软件架构
-后端:express+node.js
-手机端:Uniapp+Uni UI
-网页端:Vue+Element UI
-数据库:maria
+- 后端:express+node.js
+
+- 手机端:Uniapp+Uni UI
+- 网页端:Vue+Element UI
+- 数据库:maria
 
 #### 安装教程
 1.  在frontend_vue中执行 npm i	
