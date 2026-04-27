@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 供应链管理系统
 
 #### 介绍
@@ -20,3 +21,6 @@
 1.  按照 数据库 > 后端 > 前端 的顺序运行
 3.  建议不运行frontend_uniapp,同时运行frontend_vue和frontend_uniapp可能存在端口冲突,因此教程中没有(等待懒狗作者后续更新)
 4.  部分功能未完善,可能运行不了
+=======
+# vue_express_mariaDB
+>>>>>>> origin/main
