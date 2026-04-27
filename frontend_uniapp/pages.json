@@ -1,0 +1,151 @@
+{
+	"pages": [
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationBarTitleText": "welcome"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "index"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "login"
+			}
+		},
+		{
+			"path": "pages/personalPage/personalPage",
+			"style": {
+				"navigationBarTitleText": "personalPage"
+			}
+		},
+		{
+			"path": "pages/buy/buy",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/supply/supply",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/orders/orders",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/contacts/contacts",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/stocks/stocks",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/NewOrder/NewOrder",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/orderDetails/orderDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/editPersonal/editPersonal",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/customerDetails/customerDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/stockDetails/stockDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/NewContact/NewContact",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/userProfile/userProfile",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/modal/modal",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/stockAlert/stockAlert",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#6a71d8",
+		"borderStyle": "#aaaaaa",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/stockAlert/stockAlert",
+				"text": "库存预警",
+				"iconPath": "/static/images/tabber/bell.png",
+				"selectedIconPath": "/static/images/tabber/selected_bell.png"
+			},
+			{
+				"pagePath": "pages/personalPage/personalPage",
+				"text": "首页",
+				"iconPath": "/static/images/tabber/house.png",
+				"selectedIconPath": "/static/images/tabber/selected_house.png"
+			},
+			{
+				"pagePath": "pages/userProfile/userProfile",
+				"text": "个人",
+				"iconPath": "/static/images/tabber/user.png",
+				"selectedIconPath": "/static/images/tabber/selected_user.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

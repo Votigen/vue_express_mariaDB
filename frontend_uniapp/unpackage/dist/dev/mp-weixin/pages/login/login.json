@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "login",
+  "usingComponents": {
+    "mtitle": "../../components/Mtitle/Mtitle",
+    "minput": "../../components/Minput/Minput",
+    "mbutton": "../../components/Mbutton/Mbutton"
+  }
+}

@@ -1,0 +1,53 @@
+
+	/* 保持原有样式不变 */
+.bp.data-v-0b104ae4 {
+		margin-left: 40rpx;
+		margin-top: 10rpx;
+}
+.cp.data-v-0b104ae4 {
+		margin-top: 30px;
+		font-size: 36rpx;
+}
+.box.data-v-0b104ae4 {
+		margin-top: 20rpx;
+		border-radius: 50rpx;
+		padding: 3rpx;
+		background-color: rgba(253, 253, 253, 0.6);
+		flex-direction: column;
+		gap: 10rpx;
+		/* border: 1px skyblue solid; */
+}
+.colorLump.data-v-0b104ae4 {
+		border-radius: 100rpx;
+		width: 40rpx;
+		height: 40rpx;
+		margin-right: 20rpx;
+}
+.status_div.data-v-0b104ae4 {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+}
+.date.data-v-0b104ae4 {
+		display: flex;
+		justify-content: flex-end;
+		margin-top: 30px;
+}
+.time-range.data-v-0b104ae4 {
+		display: flex;
+		align-items: center;
+		gap: 12rpx;
+}
+.aspan.data-v-0b104ae4 {
+		padding: 8rpx 12rpx;
+		text-align: center;
+		white-space: nowrap;
+		font-size: 28rpx;
+		flex: 1;
+}
+.bspan.data-v-0b104ae4 {
+		font-weight: bold;
+		color: #555;
+		font-size: 28rpx;
+		padding: 0 8rpx;
+}

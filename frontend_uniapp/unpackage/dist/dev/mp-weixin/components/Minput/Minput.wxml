@@ -1,0 +1,1 @@
+<view class="data-v-45a5d3f9"><view class="title data-v-45a5d3f9">{{a}}</view><view class="data-v-45a5d3f9"><block wx:if="{{r0}}"><input type="{{b}}" class="inputBox data-v-45a5d3f9" value="{{c}}" bindinput="{{d}}" placeholder="{{e}}"/></block></view></view>

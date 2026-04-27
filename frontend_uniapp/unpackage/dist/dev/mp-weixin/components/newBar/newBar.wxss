@@ -1,0 +1,22 @@
+
+.title.data-v-9de366b3 {
+		padding: 8px;
+		font-size: 48rpx;
+		font-weight: 500;
+}
+.box2.data-v-9de366b3 {
+		display: flex;
+		justify-content: center;
+		/* border: solid 1px red; */
+}
+.box.data-v-9de366b3 {
+		width: 97%;
+		border-radius: 20rpx;
+		/* padding: 3rpx; */
+		background-color: rgba(204, 204, 204, 0.7);
+		display: flex;
+		flex-direction: column;
+		gap: 10rpx;
+		margin-top: 4px;
+		margin-left: 1.5%;
+}

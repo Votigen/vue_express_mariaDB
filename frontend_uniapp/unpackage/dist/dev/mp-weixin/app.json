@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/personalPage/personalPage",
+    "pages/buy/buy",
+    "pages/supply/supply",
+    "pages/orders/orders",
+    "pages/contacts/contacts",
+    "pages/stocks/stocks",
+    "pages/NewOrder/NewOrder",
+    "pages/orderDetails/orderDetails",
+    "pages/editPersonal/editPersonal",
+    "pages/customerDetails/customerDetails",
+    "pages/stockDetails/stockDetails",
+    "pages/NewContact/NewContact"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

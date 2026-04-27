@@ -1,0 +1,1 @@
+{"version":3,"file":"stockDetails.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvc3RvY2tEZXRhaWxzL3N0b2NrRGV0YWlscy52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/html/MT SCM/pages/stockDetails/stockDetails.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

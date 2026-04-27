@@ -1,0 +1,1 @@
+<view class="container data-v-1acc51a1"><order-detail wx:if="{{a}}" class="data-v-1acc51a1" u-i="1acc51a1-0" bind:__l="__l" u-p="{{a}}"></order-detail></view>

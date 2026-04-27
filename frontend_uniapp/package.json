@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@dcloudio/types": "^3.4.19",
+    "@dcloudio/uni-app": "latest",
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@vue/composition-api": "^1.7.2",
+    "bootstrap": "^5.3.7",
+    "jwt-decode": "^4.0.0"
+  }
+}

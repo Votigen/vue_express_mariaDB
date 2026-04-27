@@ -1,0 +1,1 @@
+{"version":3,"file":"orders.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvb3JkZXJzL29yZGVycy52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/html/MT SCM/pages/orders/orders.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}

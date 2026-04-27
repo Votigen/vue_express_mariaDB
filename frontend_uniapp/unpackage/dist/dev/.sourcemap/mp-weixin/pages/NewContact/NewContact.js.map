@@ -1,0 +1,1 @@
+{"version":3,"file":"NewContact.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvTmV3Q29udGFjdC9OZXdDb250YWN0LnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'D:/html/MT SCM/pages/NewContact/NewContact.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

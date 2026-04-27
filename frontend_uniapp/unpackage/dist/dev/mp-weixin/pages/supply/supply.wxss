@@ -1,0 +1,24 @@
+
+.buttonLump.data-v-80112fae {
+		margin-top: 50px;
+}
+.scrollView.data-v-80112fae {
+		height: 830rpx;
+}
+.scrollContent.data-v-80112fae {
+		display: flex;
+		justify-content: center;
+		margin-top: 20rpx;
+}
+.container.data-v-80112fae {
+		background-image: url('../../static/images/background/屏幕截图 2025-08-11 135908.png');
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		width: 100%;
+		height: 100vh;
+}
+.as.data-v-80112fae {
+		margin-top: 5px;
+}

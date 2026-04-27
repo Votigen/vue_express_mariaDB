@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "mtitle": "../../components/Mtitle/Mtitle",
+    "stock-bar": "../../components/stockBar/stockBar",
+    "new-bar": "../../components/newBar/newBar"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Mtitle.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniComponent:/RDovaHRtbC9NVCBTQ00vY29tcG9uZW50cy9NdGl0bGUvTXRpdGxlLnZ1ZQ"],"sourcesContent":["import Component from 'D:/html/MT SCM/components/Mtitle/Mtitle.vue'\nwx.createComponent(Component)"],"names":[],"mappings":";;;;;;;;;;;;;;;;AACA,GAAG,gBAAgB,SAAS;"}

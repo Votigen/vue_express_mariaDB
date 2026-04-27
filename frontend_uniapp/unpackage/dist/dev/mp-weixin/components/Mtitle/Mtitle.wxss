@@ -1,0 +1,16 @@
+
+.asd.data-v-28694ee3 {
+		display: flex;
+		justify-content: center;
+}
+.title.data-v-28694ee3 {
+		/* border: 1px solid black; */
+		/* margin-left: 250rpx; */
+		color: black;
+		font-size: 60rpx;
+		font-weight: bold;
+		font-weight: 900;
+		font-family: 'Noto Serif SC', serif;
+		/* position: relative; */
+		left: 10px
+}

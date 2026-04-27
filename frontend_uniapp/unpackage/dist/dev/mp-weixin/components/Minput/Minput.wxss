@@ -1,0 +1,40 @@
+
+	/* @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap'); */
+.inputBox.data-v-45a5d3f9 {
+		background-color: rgba(15, 7, 0, 0.4);
+		border-radius: 40rpx;
+		width: 550rpx;
+		height: 100rpx;
+		font-size: 20px;
+}
+.inputBox.data-v-45a5d3f9 {
+		background-color: rgba(15, 7, 0, 0.4);
+		border-radius: 50rpx;
+		width: 90%;
+		height: 100rpx;
+		font-size: 20px;
+		padding: 0 25px;
+		color: #fff;
+		border: none;
+		outline: none;
+		transition: all 0.3s ease;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.inputBox.data-v-45a5d3f9::-webkit-input-placeholder {
+		color: rgba(255, 255, 255, 0.6);
+}
+.inputBox.data-v-45a5d3f9::placeholder {
+		color: rgba(255, 255, 255, 0.6);
+}
+.inputBox.data-v-45a5d3f9:focus {
+		background-color: rgba(15, 7, 0, 0.5);
+		box-shadow:
+			0 0 0 2px rgba(255, 255, 255, 0.3),
+			0 0 15px rgba(255, 215, 100, 0.6);
+}
+.title.data-v-45a5d3f9 {
+		color: white;
+		font-size: 24px;
+		font-weight: 900;
+		font-family: 'Noto Serif SC', serif;
+}

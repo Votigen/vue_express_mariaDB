@@ -1,0 +1,1 @@
+<view class="container data-v-085f0530"><text class="welcome-text data-v-085f0530">Welcome to MT Supply Chain Management</text><navigator class="data-v-085f0530" url="/pages/login/login"><mbutton wx:if="{{a}}" class="btn data-v-085f0530" u-i="085f0530-0" bind:__l="__l" u-p="{{a}}"></mbutton></navigator></view>

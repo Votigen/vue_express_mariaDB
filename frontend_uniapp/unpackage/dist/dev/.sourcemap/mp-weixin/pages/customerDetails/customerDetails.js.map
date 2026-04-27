@@ -1,0 +1,1 @@
+{"version":3,"file":"customerDetails.js","sources":["../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvY3VzdG9tZXJEZXRhaWxzL2N1c3RvbWVyRGV0YWlscy52dWU"],"sourcesContent":["import MiniProgramPage from 'D:/html/MT SCM/pages/customerDetails/customerDetails.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

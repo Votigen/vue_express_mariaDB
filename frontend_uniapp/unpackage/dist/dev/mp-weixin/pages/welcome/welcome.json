@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "welcome",
+  "usingComponents": {
+    "mbutton": "../../components/Mbutton/Mbutton"
+  }
+}
